@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: Monotype Imaging
 Donate link: http://webfonts.fonts.com/
-Tags: webfonts, fonts, MTI
+Tags: webfonts, fonts, MTI, web fonts
 Requires at least: 2.9
 Tested up to: 3.0.1
 Stable tag: trunk
