@@ -6,7 +6,7 @@ Requires at least: 2.9
 Tested up to: 3.0.1
 Stable tag: trunk
 
-Webfonts plugin for wordpress in json format with editor. With this plugin you can use all the web fonts available in webfonts.fonts.com and use it on your site.
+Webfonts plugin for wordpress in json format with editor. With this plugin you can use web fonts from webfonts.fonts.com and use it on your site.
 
 
 == Description ==
